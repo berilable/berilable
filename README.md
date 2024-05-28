@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berilable
-- 👀 I’m interested in Blockcain
+- 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on web3 ecosystem
 - 📫 How to reach me on berilovilia@gmail.com
