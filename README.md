@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockcain
 - 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on web3 ecosystem
-- 📫 How to reach me on berilovilia@gmal.com
+- 📫 How to reach me on berilovilia@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: newby in web3
 
